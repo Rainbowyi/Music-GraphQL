@@ -1,0 +1,8 @@
+{
+  "appEnv": "development",
+  "appPrivateKey": "defaultPrivateKey",
+  "db": {
+    "name": "music",
+    "connectionString": "mongodb://localhost:37017/"
+  }
+}
